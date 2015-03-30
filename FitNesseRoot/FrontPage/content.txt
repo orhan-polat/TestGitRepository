@@ -1,0 +1,5 @@
+!1 TestGitRepository
+
+
+
+!note Release ${FITNESSE_VERSION}
